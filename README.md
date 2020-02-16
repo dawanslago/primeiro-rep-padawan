@@ -3,4 +3,4 @@
 
 Faça sua inscrição agora mesmo!!! :) E seja um JS mestre Jedi
 
-Seja ben vindo a sua Formação JS
+Seja bem vindo a sua Formação JS
